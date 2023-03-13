@@ -1,3 +1,3 @@
 # Peregrine
 
-## A logistics app made with nextJS
+## A logistics app built with nextJS
